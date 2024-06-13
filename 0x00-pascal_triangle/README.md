@@ -1,7 +1,6 @@
 # <ins>**Must Know**</ins><br>
 - To successfully complete this project, you should revise the following Python concepts:<br>
-<br>
-## <ins>**Concepts Needed:**</ins><br>
+## <ins>**Concepts Needed**</ins>:<br>
 1. Lists and List Comprehensions:<br>
 	- Understand how to create, access, modify, and iterate over lists.<br>
 	- Utilize list comprehensions for more concise and readable code, especially for generating rows of Pascal’s Triangle.<br>
@@ -28,12 +27,10 @@
 	- Consider the time and space complexity of different approaches to generating Pascal’s Triangle.<br>
 	- Evaluate and apply optimizations to improve the performance of the solution.<br>
 <br>
-- By revisiting these concepts, you will be well-prepared to tackle the challenges of implementing Pascal’s Triangle in Python, applying both your mathematical understanding and programming skills to develop an efficient and effective solution.
-<br>
+- By revisiting these concepts, you will be well-prepared to tackle the challenges of implementing Pascal’s Triangle in Python, applying both your mathematical understanding and programming skills to develop an efficient and effective solution.<br>
 ### <ins>Resources</ins><br>
 - [What is Pascal’s triangle](https://www.cuemath.com/algebra/pascals-triangle/)<br>
 - [Pascal’s Triangle - Numberphile](https://www.youtube.com/watch?feature=shared&v=0iMtlus-afo)<br>
 - [What are Python Algorithms](https://builtin.com/data-science/python-algorithms)<br>
-<br>
 ### <ins>Additional Resources</ins><br>
-- [Mock Technical Interview](https://www.youtube.com/watch?feature=shared&v=1qw5ITr3k9E)<br>
+- [Mock Technical Interview](https://www.youtube.com/watch?feature=shared&v=1qw5ITr3k9E)
