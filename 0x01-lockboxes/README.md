@@ -1,5 +1,5 @@
 # <ins>**Must Know**</ins><br>
-- For this project, you will need a solid understanding of several key concepts in order to develop a solution that can efficiently determine if all boxes can be opened. Here’s a list of concepts and resources that will be instrumental in tackling this project:
+- For this project, you will need a solid understanding of several key concepts in order to develop a solution that can efficiently determine if all boxes can be opened. Here’s a list of concepts and resources that will be instrumental in tackling this project:<br>
 ## <ins>**Concepts Needed**</ins>:<br>
 1. Lists and List Manipulation:<br>
 	- Understanding how to work with lists, including accessing elements, iterating over lists, and modifying lists dynamically.<br>
@@ -21,5 +21,6 @@
 	- [Python Sets (Python Official Documentation)](https://docs.python.org/3/tutorial/datastructures.html#sets)<br>
 <br>
 - By reviewing these concepts and utilizing these resources, you will be well-equipped to develop an efficient solution for this project, applying both your algorithmic thinking and Python programming skills.<br>
+<br>
 ### <ins>**Additional Resources**</ins><br>
-- [Mock Technical Interview](https://www.youtube.com/watch?v=V8DGdPkBBxg)
+- [Mock Technical Interview](https://www.youtube.com/watch?v=V8DGdPkBBxg)<br>
