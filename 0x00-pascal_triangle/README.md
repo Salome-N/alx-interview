@@ -28,7 +28,6 @@
 	- Evaluate and apply optimizations to improve the performance of the solution.<br>
 <br>
 - By revisiting these concepts, you will be well-prepared to tackle the challenges of implementing Pascal’s Triangle in Python, applying both your mathematical understanding and programming skills to develop an efficient and effective solution.<br>
-<br>
 ### <ins>*Resources*</ins><br>
 - [What is Pascal’s triangle](https://www.cuemath.com/algebra/pascals-triangle/)<br>
 - [Pascal’s Triangle - Numberphile](https://www.youtube.com/watch?feature=shared&v=0iMtlus-afo)<br>
