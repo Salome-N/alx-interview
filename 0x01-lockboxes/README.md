@@ -19,8 +19,6 @@
 6. Set Operations:<br>
 	- Understanding how to use sets for keeping track of visited boxes and available keys can optimize the search process.<br>
 	- [Python Sets (Python Official Documentation)](https://docs.python.org/3/tutorial/datastructures.html#sets)<br>
-<br>
 - By reviewing these concepts and utilizing these resources, you will be well-equipped to develop an efficient solution for this project, applying both your algorithmic thinking and Python programming skills.<br>
-<br>
-## <ins>*Additional Resources*</ins><br>
+### <ins>*Additional Resources*</ins><br>
 - [Mock Technical Interview](https://www.youtube.com/watch?v=V8DGdPkBBxg)<br>

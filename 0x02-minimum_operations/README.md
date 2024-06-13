@@ -16,8 +16,6 @@
 5. Basic Python Programming:<br>
 	- Proficiency in Python, including loops, conditionals, and functions, is necessary to implement the solution.<br>
 	- [Python Functions (Python Official Documentation)](https://docs.python.org/3/tutorial/controlflow.html#defining-functions)<br>
-<br>
 - By studying these concepts and utilizing the resources provided, you will be equipped to tackle the “Minimum Operations” problem effectively, applying both mathematical reasoning and programming skills to find the most efficient solution.<br>
-<br>
-### <ins>**Additional Resources**</ins><br>
+### <ins>*Additional Resources*</ins><br>
 - [Mock Technical Interview](https://www.youtube.com/watch?feature=shared&v=h4i4kjwncoU)<br>
