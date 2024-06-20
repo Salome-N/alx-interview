@@ -4,7 +4,9 @@ import sys
 
 
 def print_msg(dict_sc, total_file_size):
-    ''' script that reads stdin line by line and computes metrics '''
+    '''
+    script that reads stdin line by line and computes metrics
+    '''
     print('File size: {}'.format(total_file_size))
     for key, val in sorted(dict_sc.items()):
         if val != 0:
@@ -33,7 +35,7 @@ try:
 
             if counter <= 10:
                 total_file_size += int(parsed_line[0])
-                code = parsed_line[1]  
+                code = parsed_line[1]
 
                 if (code in dict_sc.keys()):
                     dict_sc[code] += 1
