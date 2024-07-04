@@ -15,6 +15,7 @@ if int(sys.argv[1]) < 4:
 
 n = int(sys.argv[1])
 
+
 def pqueens(n, i=0, a=[], b=[], c=[]):
     ''' Find the possible positions '''
     if i < n:
@@ -23,6 +24,7 @@ def pqueens(n, i=0, a=[], b=[], c=[]):
                 yield from pqueens(n, i + 1, a + [j], b + [i + j], c + [i - j])
     else:
         yield a
+
 
 def solution(n):
     ''' solve '''
@@ -35,5 +37,6 @@ def solution(n):
         print(sol)
         sol = []
         i = 0
+
 
 solution(n)
